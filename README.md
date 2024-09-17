@@ -6,7 +6,7 @@
 # Migrating A Static Website to AWS Cloud
 
 <h2>Description</h2>
-Request: The city required the migration of its beach wave size prediction page to AWS to enhance the reliability and availability of the service.
+Scenario: The city required the migration of its beach wave size prediction page to AWS to enhance the reliability and availability of the service.
 <br><br>
 Solution: Implemented hosting of a static web page using Amazon S3, ensuring improved performance, scalability, and reliability. Configured the S3 bucket for static website hosting, enabled public access, and integrated appropriate permissions for secure and seamless operation. This solution optimized user access to real-time wave size predictions while reducing downtime and maintenance overhead.
 
